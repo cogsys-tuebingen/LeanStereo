@@ -1,0 +1,10 @@
+frames_finalpass/TRAIN/B/0464/left/0008.png frames_finalpass/TRAIN/B/0464/right/0008.png disparity/TRAIN/B/0464/left/0008.pfm
+frames_finalpass/TRAIN/B/0464/left/0009.png frames_finalpass/TRAIN/B/0464/right/0009.png disparity/TRAIN/B/0464/left/0009.pfm
+frames_finalpass/TRAIN/B/0464/left/0007.png frames_finalpass/TRAIN/B/0464/right/0007.png disparity/TRAIN/B/0464/left/0007.pfm
+frames_finalpass/TRAIN/B/0464/left/0012.png frames_finalpass/TRAIN/B/0464/right/0012.png disparity/TRAIN/B/0464/left/0012.pfm
+frames_finalpass/TRAIN/B/0464/left/0013.png frames_finalpass/TRAIN/B/0464/right/0013.png disparity/TRAIN/B/0464/left/0013.pfm
+frames_finalpass/TRAIN/B/0464/left/0015.png frames_finalpass/TRAIN/B/0464/right/0015.png disparity/TRAIN/B/0464/left/0015.pfm
+frames_finalpass/TRAIN/B/0464/left/0011.png frames_finalpass/TRAIN/B/0464/right/0011.png disparity/TRAIN/B/0464/left/0011.pfm
+frames_finalpass/TRAIN/B/0464/left/0014.png frames_finalpass/TRAIN/B/0464/right/0014.png disparity/TRAIN/B/0464/left/0014.pfm
+frames_finalpass/TRAIN/B/0464/left/0006.png frames_finalpass/TRAIN/B/0464/right/0006.png disparity/TRAIN/B/0464/left/0006.pfm
+frames_finalpass/TRAIN/B/0464/left/0010.png frames_finalpass/TRAIN/B/0464/right/0010.png disparity/TRAIN/B/0464/left/0010.pfm
